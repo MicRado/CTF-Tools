@@ -1,0 +1,61 @@
+*******Cryptography*******
+
+Factordb -- database of large factored numbers
+How RSA works
+HashID
+John the Ripper
+Large hex/decimal conversion @ ss64.com
+OpenSSL
+rsatool
+yafu
+featherduster
+
+*******Steganography*******
+
+exiftool
+StegSolve
+GIMP
+ImageMagick
+TinEye
+Google Image Search
+Sonic Visualizer
+Magic Eye Viewer (can do this in GIMP too)
+
+*******Forensics*******
+
+file
+binwalk
+foremost
+strings
+Wireshark
+Emacs hexl-mode or vi with xxd as hex editors
+
+*******Reverse Engineering*******
+
+GDB
+radare2
+objdump
+strace
+ltrace
+Uncompyle2
+Uncompyle6
+
+*******Recon*******
+
+DNS tools: dig, host, etc.
+Whois
+The Wayback Machine
+wget/curl one liners
+nmap
+Web
+Browser developer consoles
+Burp Suite
+Nikto
+Dirbuster
+JWT Decoder
+sqlmap
+
+*******Binary Exploitation*******
+
+pwntools
+pattern create Metasploit modules
