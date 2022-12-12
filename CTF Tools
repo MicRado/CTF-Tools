@@ -9,7 +9,8 @@ OpenSSL
 rsatool
 yafu
 featherduster
-
+1 time pad, key length = 50000. flag length is 32 bytes. eg. python3 -c "print('\x00'*(50000-32)+'\n'+'\x00'*32)" | nc mercury.picoctf.net 11188
+  - this will give you the XOR key, cyber shef from hex then XOR 
 *******Steganography*******
 
 exiftool
